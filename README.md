@@ -11,7 +11,7 @@ Elimina fotos de la biblioteca de forma permanente.
 Actualiza la información asociada a las fotos.
 
 Exportación de Datos:
--Exporta los datos de las fotos almacenadas en un formato adecuado (por ejemplo, PDF o CSV) utilizando bibliotecas como TCPDF.
+-Exporta los datos de las fotos almacenadas en formato PDF utilizando bibliotecas como TCPDF.
 
 Visualización de Fotos:
 -Proporciona una interfaz para listar y visualizar las fotos registradas en la biblioteca.
